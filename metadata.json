@@ -1,0 +1,6 @@
+{
+  "name": "Retro Apartment 3D",
+  "description": "A retro first-person 3D apartment environment featuring Charles the cat, Bob dialogue system, interactive computer desktop, and mobile phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
